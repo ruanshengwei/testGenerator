@@ -1,6 +1,7 @@
 package com.github.ruanshengwei.model;
 
 import java.math.BigDecimal;
+import org.junit.Test;
 
 public class Person {
 
